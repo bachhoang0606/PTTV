@@ -1,0 +1,6 @@
+1-1:KW_PROGRAM
+1-10:TK_IDENT(EXAMPLE3)
+1-18:SB_SEMICOLON
+2-0:SB_LF
+2-1:KW_VAR
+2-6:Identification too long!
